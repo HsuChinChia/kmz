@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns="http://www.opengis.net/kml/2.2"><Document><ns0:Placemark>
+<ns0:name>大埔支線第24輪區小給1</ns0:name>
+<ns0:ExtendedData>
+<ns0:SchemaData schemaUrl="#Canal">
+<ns0:SimpleData name="FID">0</ns0:SimpleData>
+<ns0:SimpleData name="Ia">06</ns0:SimpleData>
+<ns0:SimpleData name="Ia_cns">苗栗</ns0:SimpleData>
+<ns0:SimpleData name="Mng">0</ns0:SimpleData>
+<ns0:SimpleData name="Mng_cns" />
+<ns0:SimpleData name="Stn">18</ns0:SimpleData>
+<ns0:SimpleData name="Stn_cns">大埔站</ns0:SimpleData>
+<ns0:SimpleData name="Grp">06</ns0:SimpleData>
+<ns0:SimpleData name="Grp_cns">第六小組</ns0:SimpleData>
+<ns0:SimpleData name="Rot">24</ns0:SimpleData>
+<ns0:SimpleData name="Rot_cns">大埔支線第24輪區</ns0:SimpleData>
+<ns0:SimpleData name="Length">203.59</ns0:SimpleData>
+<ns0:SimpleData name="Ex_sys">134040001001000001001</ns0:SimpleData>
+<ns0:SimpleData name="Sys">5</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cns">大埔支線第24輪區小給1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_type">N</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cls">小給</ns0:SimpleData>
+<ns0:SimpleData name="Uc">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_dir">1</ns0:SimpleData>
+<ns0:SimpleData name="Ymd">2018/09/04</ns0:SimpleData>
+<ns0:SimpleData name="Sys_kind">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_1E">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_2E">203.59</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_3E">0</ns0:SimpleData>
+<ns0:SimpleData name="1_IR" />
+<ns0:SimpleData name="2_DA" />
+<ns0:SimpleData name="3_DB" />
+<ns0:SimpleData name="Attri_" />
+<ns0:SimpleData name="Width">0</ns0:SimpleData>
+<ns0:SimpleData name="欄位0616" />
+<ns0:SimpleData name="備註" />
+<ns0:SimpleData name="start_X">240291.76</ns0:SimpleData>
+<ns0:SimpleData name="start_Y">2734217.73</ns0:SimpleData>
+<ns0:SimpleData name="end_x">240228.06</ns0:SimpleData>
+<ns0:SimpleData name="end_y">2734024.36</ns0:SimpleData>
+</ns0:SchemaData>
+</ns0:ExtendedData>
+<ns0:styleUrl>#SGLineStyle_1</ns0:styleUrl>
+<ns0:LineString>
+<ns0:coordinates>
+120.9040418751895,24.7150295975650,0 120.9034135442786,24.7132833017801,0 
+</ns0:coordinates>
+</ns0:LineString>
+</ns0:Placemark>
+</Document></kml>
