@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<kml xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns="http://www.opengis.net/kml/2.2"><Document><ns0:Placemark>
+<ns0:kml xmlns:ns0="http://www.opengis.net/kml/2.2"><Document><ns0:Placemark>
 <ns0:name>大埔支線第24輪區小給1</ns0:name>
 <ns0:ExtendedData>
 <ns0:SchemaData schemaUrl="#Canal">
@@ -54528,4 +54528,445 @@
 </ns0:coordinates>
 </ns0:LineString>
 </ns0:Placemark>
-</Document></kml>
+<ns0:Placemark>
+<ns0:name>明德幹渠第17輪區主給1小給2</ns0:name>
+<ns0:ExtendedData>
+<ns0:SchemaData schemaUrl="#Canal">
+<ns0:SimpleData name="FID">1113</ns0:SimpleData>
+<ns0:SimpleData name="Ia">06</ns0:SimpleData>
+<ns0:SimpleData name="Ia_cns">苗栗</ns0:SimpleData>
+<ns0:SimpleData name="Mng">0</ns0:SimpleData>
+<ns0:SimpleData name="Mng_cns" />
+<ns0:SimpleData name="Stn">15</ns0:SimpleData>
+<ns0:SimpleData name="Stn_cns">大潭站</ns0:SimpleData>
+<ns0:SimpleData name="Grp">10</ns0:SimpleData>
+<ns0:SimpleData name="Grp_cns">海寶小組</ns0:SimpleData>
+<ns0:SimpleData name="Rot">19</ns0:SimpleData>
+<ns0:SimpleData name="Rot_cns">明德幹渠第18輪區</ns0:SimpleData>
+<ns0:SimpleData name="Length">726.89</ns0:SimpleData>
+<ns0:SimpleData name="Ex_sys">135070001001001001388</ns0:SimpleData>
+<ns0:SimpleData name="Sys">1184</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cns">明德幹渠第17輪區主給1小給2</ns0:SimpleData>
+<ns0:SimpleData name="Sys_type">N</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cls">小給</ns0:SimpleData>
+<ns0:SimpleData name="Uc">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_dir">1</ns0:SimpleData>
+<ns0:SimpleData name="Ymd">2011/07/04</ns0:SimpleData>
+<ns0:SimpleData name="Sys_kind">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_1E">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_2E">726.89</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_3E">0</ns0:SimpleData>
+<ns0:SimpleData name="1_IR" />
+<ns0:SimpleData name="2_DA" />
+<ns0:SimpleData name="3_DB" />
+<ns0:SimpleData name="Attri_" />
+<ns0:SimpleData name="Width">0</ns0:SimpleData>
+<ns0:SimpleData name="欄位0616" />
+<ns0:SimpleData name="備註" />
+<ns0:SimpleData name="start_X">230146.76</ns0:SimpleData>
+<ns0:SimpleData name="start_Y">2726961.99</ns0:SimpleData>
+<ns0:SimpleData name="end_x">230501.77</ns0:SimpleData>
+<ns0:SimpleData name="end_y">2727584.46</ns0:SimpleData>
+</ns0:SchemaData>
+</ns0:ExtendedData>
+<ns0:styleUrl>#SGLineStyle_1</ns0:styleUrl>
+<ns0:LineString>
+<ns0:coordinates>
+120.8038694980712,24.6494219851042,0 120.8039462190255,24.6495126320280,0 120.8039633985574,24.6495335406905,0 120.8040150677249,24.6497556652737,0 120.8041111797011,24.6499551133140,0 120.8042961579656,24.6501520315886,0 120.8044117712415,24.6503265754815,0 120.8045040563509,24.6504135902285,0 120.8046712294114,24.6507225418447,0 120.8046683046645,24.6509851262707,0 120.8047153549070,24.6511604340188,0 120.8046923431555,24.6511790422080,0 120.8051899631208,24.6519020725869,0 120.8053866414425,24.6521840556546,0 120.8058073190345,24.6527906838231,0 120.8061428322459,24.6532731619500,0 120.8065554398025,24.6538547633643,0 120.8066101972142,24.6539566088011,0 120.8068832651094,24.6543497880136,0 120.8073557176849,24.6550270633491,0 120.8073680774804,24.6550466129263,0 
+</ns0:coordinates>
+</ns0:LineString>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>明德幹渠第19輪區中排2小排3之3</ns0:name>
+<ns0:ExtendedData>
+<ns0:SchemaData schemaUrl="#Canal">
+<ns0:SimpleData name="FID">1114</ns0:SimpleData>
+<ns0:SimpleData name="Ia">06</ns0:SimpleData>
+<ns0:SimpleData name="Ia_cns">苗栗</ns0:SimpleData>
+<ns0:SimpleData name="Mng">0</ns0:SimpleData>
+<ns0:SimpleData name="Mng_cns" />
+<ns0:SimpleData name="Stn">15</ns0:SimpleData>
+<ns0:SimpleData name="Stn_cns">大潭站</ns0:SimpleData>
+<ns0:SimpleData name="Grp">10</ns0:SimpleData>
+<ns0:SimpleData name="Grp_cns">海寶小組</ns0:SimpleData>
+<ns0:SimpleData name="Rot">17</ns0:SimpleData>
+<ns0:SimpleData name="Rot_cns">明德幹渠第17輪區</ns0:SimpleData>
+<ns0:SimpleData name="Length">731.5</ns0:SimpleData>
+<ns0:SimpleData name="Ex_sys">135070001001001001389</ns0:SimpleData>
+<ns0:SimpleData name="Sys">1185</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cns">明德幹渠第19輪區中排2小排3之3</ns0:SimpleData>
+<ns0:SimpleData name="Sys_type">C</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cls">小排</ns0:SimpleData>
+<ns0:SimpleData name="Uc">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb">2</ns0:SimpleData>
+<ns0:SimpleData name="Sys_dir">1</ns0:SimpleData>
+<ns0:SimpleData name="Ymd">2011/07/04</ns0:SimpleData>
+<ns0:SimpleData name="Sys_kind">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_1E">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_2E">731.5</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_3E">0</ns0:SimpleData>
+<ns0:SimpleData name="1_IR" />
+<ns0:SimpleData name="2_DA" />
+<ns0:SimpleData name="3_DB" />
+<ns0:SimpleData name="Attri_" />
+<ns0:SimpleData name="Width">0</ns0:SimpleData>
+<ns0:SimpleData name="欄位0616" />
+<ns0:SimpleData name="備註" />
+<ns0:SimpleData name="start_X">230116</ns0:SimpleData>
+<ns0:SimpleData name="start_Y">2726976.15</ns0:SimpleData>
+<ns0:SimpleData name="end_x">230497.03</ns0:SimpleData>
+<ns0:SimpleData name="end_y">2727587.38</ns0:SimpleData>
+</ns0:SchemaData>
+</ns0:ExtendedData>
+<ns0:styleUrl>#SGLineStyle_2</ns0:styleUrl>
+<ns0:LineString>
+<ns0:coordinates>
+120.8035654693651,24.6495494093148,0 120.8035804939633,24.6496538421700,0 120.8035867795945,24.6497096581189,0 120.8035998890110,24.6497924112920,0 120.8036451050980,24.6500350950993,0 120.8036795868331,24.6501280073630,0 120.8038309764729,24.6504206378538,0 120.8039041072333,24.6505060497379,0 120.8039927807784,24.6506218835289,0 120.8041516444689,24.6507782449870,0 120.8044332182613,24.6510232054919,0 120.8045988265731,24.6512264905411,0 120.8046498626429,24.6512096821103,0 120.8046616697450,24.6512277405480,0 120.8048286910154,24.6514694102812,0 120.8051485550675,24.6519322661898,0 120.8057013896307,24.6527313633474,0 120.8064470572371,24.6537991962260,0 120.8069142008924,24.6544875615913,0 120.8073086669493,24.6550546942555,0 120.8073211186816,24.6550729158229,0 
+</ns0:coordinates>
+</ns0:LineString>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>明德幹渠第17輪區主給1小給4</ns0:name>
+<ns0:ExtendedData>
+<ns0:SchemaData schemaUrl="#Canal">
+<ns0:SimpleData name="FID">1115</ns0:SimpleData>
+<ns0:SimpleData name="Ia">06</ns0:SimpleData>
+<ns0:SimpleData name="Ia_cns">苗栗</ns0:SimpleData>
+<ns0:SimpleData name="Mng">0</ns0:SimpleData>
+<ns0:SimpleData name="Mng_cns" />
+<ns0:SimpleData name="Stn">15</ns0:SimpleData>
+<ns0:SimpleData name="Stn_cns">大潭站</ns0:SimpleData>
+<ns0:SimpleData name="Grp">10</ns0:SimpleData>
+<ns0:SimpleData name="Grp_cns">海寶小組</ns0:SimpleData>
+<ns0:SimpleData name="Rot">17</ns0:SimpleData>
+<ns0:SimpleData name="Rot_cns">明德幹渠第17輪區</ns0:SimpleData>
+<ns0:SimpleData name="Length">439.67</ns0:SimpleData>
+<ns0:SimpleData name="Ex_sys">135070001001001001390</ns0:SimpleData>
+<ns0:SimpleData name="Sys">1186</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cns">明德幹渠第17輪區主給1小給4</ns0:SimpleData>
+<ns0:SimpleData name="Sys_type">N</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cls">小給</ns0:SimpleData>
+<ns0:SimpleData name="Uc">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_dir">1</ns0:SimpleData>
+<ns0:SimpleData name="Ymd">2011/07/04</ns0:SimpleData>
+<ns0:SimpleData name="Sys_kind">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_1E">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_2E">439.67</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_3E">0</ns0:SimpleData>
+<ns0:SimpleData name="1_IR" />
+<ns0:SimpleData name="2_DA" />
+<ns0:SimpleData name="3_DB" />
+<ns0:SimpleData name="Attri_" />
+<ns0:SimpleData name="Width">0</ns0:SimpleData>
+<ns0:SimpleData name="欄位0616" />
+<ns0:SimpleData name="備註" />
+<ns0:SimpleData name="start_X">230086.04</ns0:SimpleData>
+<ns0:SimpleData name="start_Y">2727220.69</ns0:SimpleData>
+<ns0:SimpleData name="end_x">230317.08</ns0:SimpleData>
+<ns0:SimpleData name="end_y">2727585.42</ns0:SimpleData>
+</ns0:SchemaData>
+</ns0:ExtendedData>
+<ns0:styleUrl>#SGLineStyle_1</ns0:styleUrl>
+<ns0:LineString>
+<ns0:coordinates>
+120.8032659908715,24.6517569373342,0 120.8038082998436,24.6525341057858,0 120.8038906511606,24.6526555373214,0 120.8044310653950,24.6534363206315,0 120.8044961575006,24.6534031316027,0 120.8046083665989,24.6536862354534,0 120.8047394133228,24.6538822189389,0 120.8048156520460,24.6539877929171,0 120.8050713117824,24.6543689201481,0 120.8053940035707,24.6548362726806,0 120.8055433835244,24.6550529704061,0 
+</ns0:coordinates>
+</ns0:LineString>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>明德幹渠第19輪區中排2小排3之2</ns0:name>
+<ns0:ExtendedData>
+<ns0:SchemaData schemaUrl="#Canal">
+<ns0:SimpleData name="FID">1116</ns0:SimpleData>
+<ns0:SimpleData name="Ia">06</ns0:SimpleData>
+<ns0:SimpleData name="Ia_cns">苗栗</ns0:SimpleData>
+<ns0:SimpleData name="Mng">0</ns0:SimpleData>
+<ns0:SimpleData name="Mng_cns" />
+<ns0:SimpleData name="Stn">15</ns0:SimpleData>
+<ns0:SimpleData name="Stn_cns">大潭站</ns0:SimpleData>
+<ns0:SimpleData name="Grp">10</ns0:SimpleData>
+<ns0:SimpleData name="Grp_cns">海寶小組</ns0:SimpleData>
+<ns0:SimpleData name="Rot">17</ns0:SimpleData>
+<ns0:SimpleData name="Rot_cns">明德幹渠第17輪區</ns0:SimpleData>
+<ns0:SimpleData name="Length">551.82</ns0:SimpleData>
+<ns0:SimpleData name="Ex_sys">135070001001001001391</ns0:SimpleData>
+<ns0:SimpleData name="Sys">1187</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cns">明德幹渠第19輪區中排2小排3之2</ns0:SimpleData>
+<ns0:SimpleData name="Sys_type">C</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cls">小排</ns0:SimpleData>
+<ns0:SimpleData name="Uc">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb">2</ns0:SimpleData>
+<ns0:SimpleData name="Sys_dir">1</ns0:SimpleData>
+<ns0:SimpleData name="Ymd">2011/07/04</ns0:SimpleData>
+<ns0:SimpleData name="Sys_kind">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_1E">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_2E">551.82</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_3E">0</ns0:SimpleData>
+<ns0:SimpleData name="1_IR" />
+<ns0:SimpleData name="2_DA" />
+<ns0:SimpleData name="3_DB" />
+<ns0:SimpleData name="Attri_" />
+<ns0:SimpleData name="Width">0</ns0:SimpleData>
+<ns0:SimpleData name="欄位0616" />
+<ns0:SimpleData name="備註" />
+<ns0:SimpleData name="start_X">230087.02</ns0:SimpleData>
+<ns0:SimpleData name="start_Y">2727233.04</ns0:SimpleData>
+<ns0:SimpleData name="end_x">230360.1</ns0:SimpleData>
+<ns0:SimpleData name="end_y">2727675.79</ns0:SimpleData>
+</ns0:SchemaData>
+</ns0:ExtendedData>
+<ns0:styleUrl>#SGLineStyle_2</ns0:styleUrl>
+<ns0:LineString>
+<ns0:coordinates>
+120.8032755165167,24.6518684334199,0 120.8036789644877,24.6524408376718,0 120.8044133058976,24.6535057269306,0 120.8044735174210,24.6534720602592,0 120.8045667747360,24.6537312240857,0 120.8046578949030,24.6538473125328,0 120.8048027308956,24.6540633631597,0 120.8053487669685,24.6548590388169,0 120.8054780261839,24.6550465575658,0 120.8053869656957,24.6551050318475,0 120.8054264086739,24.6551857747959,0 120.8053857404607,24.6553007711741,0 120.8055917524728,24.6557225890172,0 120.8056836613433,24.6557430099606,0 120.8059389779735,24.6558503559996,0 120.8059671179331,24.6558694078140,0 
+</ns0:coordinates>
+</ns0:LineString>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>明德幹渠第19輪區主給1小給3</ns0:name>
+<ns0:ExtendedData>
+<ns0:SchemaData schemaUrl="#Canal">
+<ns0:SimpleData name="FID">1117</ns0:SimpleData>
+<ns0:SimpleData name="Ia">06</ns0:SimpleData>
+<ns0:SimpleData name="Ia_cns">苗栗</ns0:SimpleData>
+<ns0:SimpleData name="Mng">0</ns0:SimpleData>
+<ns0:SimpleData name="Mng_cns" />
+<ns0:SimpleData name="Stn">15</ns0:SimpleData>
+<ns0:SimpleData name="Stn_cns">大潭站</ns0:SimpleData>
+<ns0:SimpleData name="Grp">10</ns0:SimpleData>
+<ns0:SimpleData name="Grp_cns">海寶小組</ns0:SimpleData>
+<ns0:SimpleData name="Rot">18</ns0:SimpleData>
+<ns0:SimpleData name="Rot_cns">明德幹渠第19輪區</ns0:SimpleData>
+<ns0:SimpleData name="Length">716.25</ns0:SimpleData>
+<ns0:SimpleData name="Ex_sys">135070001001001001392</ns0:SimpleData>
+<ns0:SimpleData name="Sys">1188</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cns">明德幹渠第19輪區主給1小給3</ns0:SimpleData>
+<ns0:SimpleData name="Sys_type">N</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cls">小給</ns0:SimpleData>
+<ns0:SimpleData name="Uc">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_dir">1</ns0:SimpleData>
+<ns0:SimpleData name="Ymd">2011/07/04</ns0:SimpleData>
+<ns0:SimpleData name="Sys_kind">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_1E">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_2E">716.25</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_3E">0</ns0:SimpleData>
+<ns0:SimpleData name="1_IR" />
+<ns0:SimpleData name="2_DA" />
+<ns0:SimpleData name="3_DB" />
+<ns0:SimpleData name="Attri_" />
+<ns0:SimpleData name="Width">0</ns0:SimpleData>
+<ns0:SimpleData name="欄位0616" />
+<ns0:SimpleData name="備註" />
+<ns0:SimpleData name="start_X">230300.77</ns0:SimpleData>
+<ns0:SimpleData name="start_Y">2727712.35</ns0:SimpleData>
+<ns0:SimpleData name="end_x">230646.84</ns0:SimpleData>
+<ns0:SimpleData name="end_y">2728256.96</ns0:SimpleData>
+</ns0:SchemaData>
+</ns0:ExtendedData>
+<ns0:styleUrl>#SGLineStyle_1</ns0:styleUrl>
+<ns0:LineString>
+<ns0:coordinates>
+120.8053804941755,24.6561987327629,0 120.8054220979782,24.6562610995495,0 120.8058500736041,24.6569193758931,0 120.8059092954675,24.6569393752594,0 120.8062537434351,24.6571734561215,0 120.8063168532314,24.6571588034337,0 120.8063765579150,24.6572418745636,0 120.8060497551426,24.6574945320691,0 120.8062882025772,24.6576739738775,0 120.8063708362646,24.6577454572513,0 120.8067725457695,24.6581150150265,0 120.8070484008784,24.6583221109645,0 120.8071361069512,24.6584384173951,0 120.8072035378570,24.6584892464647,0 120.8073440275734,24.6585514786122,0 120.8074406165741,24.6585521161482,0 120.8074763539727,24.6586155438435,0 120.8074997899457,24.6587029478998,0 120.8076131371333,24.6587325331376,0 120.8075864803694,24.6589144348676,0 120.8076128914536,24.6590751869502,0 120.8076728156807,24.6592359864358,0 120.8077844027231,24.6595720298053,0 120.8078006490840,24.6596487751859,0 120.8080900799364,24.6600724512993,0 120.8084787439387,24.6606677925588,0 120.8087919450754,24.6611203029330,0 
+</ns0:coordinates>
+</ns0:LineString>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>明德幹渠第19輪區中排2小排2</ns0:name>
+<ns0:ExtendedData>
+<ns0:SchemaData schemaUrl="#Canal">
+<ns0:SimpleData name="FID">1118</ns0:SimpleData>
+<ns0:SimpleData name="Ia">06</ns0:SimpleData>
+<ns0:SimpleData name="Ia_cns">苗栗</ns0:SimpleData>
+<ns0:SimpleData name="Mng">0</ns0:SimpleData>
+<ns0:SimpleData name="Mng_cns" />
+<ns0:SimpleData name="Stn">15</ns0:SimpleData>
+<ns0:SimpleData name="Stn_cns">大潭站</ns0:SimpleData>
+<ns0:SimpleData name="Grp">10</ns0:SimpleData>
+<ns0:SimpleData name="Grp_cns">海寶小組</ns0:SimpleData>
+<ns0:SimpleData name="Rot">18</ns0:SimpleData>
+<ns0:SimpleData name="Rot_cns">明德幹渠第19輪區</ns0:SimpleData>
+<ns0:SimpleData name="Length">609.33</ns0:SimpleData>
+<ns0:SimpleData name="Ex_sys">135070001001001001393</ns0:SimpleData>
+<ns0:SimpleData name="Sys">1189</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cns">明德幹渠第19輪區中排2小排2</ns0:SimpleData>
+<ns0:SimpleData name="Sys_type">C</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cls">小排</ns0:SimpleData>
+<ns0:SimpleData name="Uc">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb">2</ns0:SimpleData>
+<ns0:SimpleData name="Sys_dir">1</ns0:SimpleData>
+<ns0:SimpleData name="Ymd">2011/07/04</ns0:SimpleData>
+<ns0:SimpleData name="Sys_kind">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_1E">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_2E">609.33</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_3E">0</ns0:SimpleData>
+<ns0:SimpleData name="1_IR" />
+<ns0:SimpleData name="2_DA" />
+<ns0:SimpleData name="3_DB" />
+<ns0:SimpleData name="Attri_" />
+<ns0:SimpleData name="Width">0</ns0:SimpleData>
+<ns0:SimpleData name="欄位0616" />
+<ns0:SimpleData name="備註" />
+<ns0:SimpleData name="start_X">230370.74</ns0:SimpleData>
+<ns0:SimpleData name="start_Y">2727668.92</ns0:SimpleData>
+<ns0:SimpleData name="end_x">230686.14</ns0:SimpleData>
+<ns0:SimpleData name="end_y">2728163.17</ns0:SimpleData>
+</ns0:SchemaData>
+</ns0:ExtendedData>
+<ns0:styleUrl>#SGLineStyle_2</ns0:styleUrl>
+<ns0:LineString>
+<ns0:coordinates>
+120.8060723333381,24.6558075575416,0 120.8061098013187,24.6558638397382,0 120.8066257221714,24.6566259154845,0 120.8070190817255,24.6571894457766,0 120.8071060034457,24.6571875286085,0 120.8073867201282,24.6573455037818,0 120.8077550580088,24.6575879453751,0 120.8076925549647,24.6580686461045,0 120.8084607487458,24.6591990295927,0 120.8084782957633,24.6592265002943,0 120.8091815253567,24.6602740314371,0 
+</ns0:coordinates>
+</ns0:LineString>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>明德幹渠第19輪區主給1小給2</ns0:name>
+<ns0:ExtendedData>
+<ns0:SchemaData schemaUrl="#Canal">
+<ns0:SimpleData name="FID">1119</ns0:SimpleData>
+<ns0:SimpleData name="Ia">06</ns0:SimpleData>
+<ns0:SimpleData name="Ia_cns">苗栗</ns0:SimpleData>
+<ns0:SimpleData name="Mng">0</ns0:SimpleData>
+<ns0:SimpleData name="Mng_cns" />
+<ns0:SimpleData name="Stn">15</ns0:SimpleData>
+<ns0:SimpleData name="Stn_cns">大潭站</ns0:SimpleData>
+<ns0:SimpleData name="Grp">10</ns0:SimpleData>
+<ns0:SimpleData name="Grp_cns">海寶小組</ns0:SimpleData>
+<ns0:SimpleData name="Rot">18</ns0:SimpleData>
+<ns0:SimpleData name="Rot_cns">明德幹渠第19輪區</ns0:SimpleData>
+<ns0:SimpleData name="Length">730.22</ns0:SimpleData>
+<ns0:SimpleData name="Ex_sys">135070001001001001394</ns0:SimpleData>
+<ns0:SimpleData name="Sys">1190</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cns">明德幹渠第19輪區主給1小給2</ns0:SimpleData>
+<ns0:SimpleData name="Sys_type">N</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cls">小給</ns0:SimpleData>
+<ns0:SimpleData name="Uc">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_dir">1</ns0:SimpleData>
+<ns0:SimpleData name="Ymd">2011/07/04</ns0:SimpleData>
+<ns0:SimpleData name="Sys_kind">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_1E">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_2E">730.22</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_3E">0</ns0:SimpleData>
+<ns0:SimpleData name="1_IR" />
+<ns0:SimpleData name="2_DA" />
+<ns0:SimpleData name="3_DB" />
+<ns0:SimpleData name="Attri_" />
+<ns0:SimpleData name="Width">0</ns0:SimpleData>
+<ns0:SimpleData name="欄位0616" />
+<ns0:SimpleData name="備註" />
+<ns0:SimpleData name="start_X">230370.07</ns0:SimpleData>
+<ns0:SimpleData name="start_Y">2727676.19</ns0:SimpleData>
+<ns0:SimpleData name="end_x">230376.41</ns0:SimpleData>
+<ns0:SimpleData name="end_y">2728193.52</ns0:SimpleData>
+</ns0:SchemaData>
+</ns0:ExtendedData>
+<ns0:styleUrl>#SGLineStyle_1</ns0:styleUrl>
+<ns0:LineString>
+<ns0:coordinates>
+120.8060656147117,24.6558731473589,0 120.8065099964090,24.6565288689372,0 120.8067621582209,24.6569016316864,0 120.8069671184359,24.6571878622070,0 120.8070845913566,24.6572119699738,0 120.8076526537001,24.6576426866437,0 120.8076517020469,24.6580818462367,0 120.8077258326557,24.6581944051703,0 120.8084192145248,24.6592130723481,0 120.8070537154880,24.6600023286181,0 120.8070186104939,24.6600235309184,0 120.8061361609740,24.6605327618905,0 120.8061210657854,24.6605441051075,0 
+</ns0:coordinates>
+</ns0:LineString>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>明德幹渠第19輪區中排2小排1之1</ns0:name>
+<ns0:ExtendedData>
+<ns0:SchemaData schemaUrl="#Canal">
+<ns0:SimpleData name="FID">1120</ns0:SimpleData>
+<ns0:SimpleData name="Ia">06</ns0:SimpleData>
+<ns0:SimpleData name="Ia_cns">苗栗</ns0:SimpleData>
+<ns0:SimpleData name="Mng">0</ns0:SimpleData>
+<ns0:SimpleData name="Mng_cns" />
+<ns0:SimpleData name="Stn">15</ns0:SimpleData>
+<ns0:SimpleData name="Stn_cns">大潭站</ns0:SimpleData>
+<ns0:SimpleData name="Grp">10</ns0:SimpleData>
+<ns0:SimpleData name="Grp_cns">海寶小組</ns0:SimpleData>
+<ns0:SimpleData name="Rot">18</ns0:SimpleData>
+<ns0:SimpleData name="Rot_cns">明德幹渠第19輪區</ns0:SimpleData>
+<ns0:SimpleData name="Length">449.98</ns0:SimpleData>
+<ns0:SimpleData name="Ex_sys">135070001001001001395</ns0:SimpleData>
+<ns0:SimpleData name="Sys">1191</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cns">明德幹渠第19輪區中排2小排1之1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_type">C</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cls">小排</ns0:SimpleData>
+<ns0:SimpleData name="Uc">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb">2</ns0:SimpleData>
+<ns0:SimpleData name="Sys_dir">1</ns0:SimpleData>
+<ns0:SimpleData name="Ymd">2011/07/04</ns0:SimpleData>
+<ns0:SimpleData name="Sys_kind">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_1E">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_2E">449.98</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_3E">0</ns0:SimpleData>
+<ns0:SimpleData name="1_IR" />
+<ns0:SimpleData name="2_DA" />
+<ns0:SimpleData name="3_DB" />
+<ns0:SimpleData name="Attri_" />
+<ns0:SimpleData name="Width">0</ns0:SimpleData>
+<ns0:SimpleData name="欄位0616" />
+<ns0:SimpleData name="備註" />
+<ns0:SimpleData name="start_X">230237.45</ns0:SimpleData>
+<ns0:SimpleData name="start_Y">2727754.45</ns0:SimpleData>
+<ns0:SimpleData name="end_x">230470.73</ns0:SimpleData>
+<ns0:SimpleData name="end_y">2728133.38</ns0:SimpleData>
+</ns0:SchemaData>
+</ns0:ExtendedData>
+<ns0:styleUrl>#SGLineStyle_2</ns0:styleUrl>
+<ns0:LineString>
+<ns0:coordinates>
+120.8047542851081,24.6565781154092,0 120.8051073919500,24.6570949341090,0 120.8051967352821,24.6571896632530,0 120.8052998859988,24.6572286657511,0 120.8058492392197,24.6580508060331,0 120.8067112138667,24.6593388750042,0 120.8067078062258,24.6594903280743,0 120.8070537154880,24.6600023286181,0 
+</ns0:coordinates>
+</ns0:LineString>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>明德幹渠第19輪區主給1小給4</ns0:name>
+<ns0:ExtendedData>
+<ns0:SchemaData schemaUrl="#Canal">
+<ns0:SimpleData name="FID">1121</ns0:SimpleData>
+<ns0:SimpleData name="Ia">06</ns0:SimpleData>
+<ns0:SimpleData name="Ia_cns">苗栗</ns0:SimpleData>
+<ns0:SimpleData name="Mng">0</ns0:SimpleData>
+<ns0:SimpleData name="Mng_cns" />
+<ns0:SimpleData name="Stn">15</ns0:SimpleData>
+<ns0:SimpleData name="Stn_cns">大潭站</ns0:SimpleData>
+<ns0:SimpleData name="Grp">10</ns0:SimpleData>
+<ns0:SimpleData name="Grp_cns">海寶小組</ns0:SimpleData>
+<ns0:SimpleData name="Rot">18</ns0:SimpleData>
+<ns0:SimpleData name="Rot_cns">明德幹渠第19輪區</ns0:SimpleData>
+<ns0:SimpleData name="Length">444.41</ns0:SimpleData>
+<ns0:SimpleData name="Ex_sys">135070001001001001396</ns0:SimpleData>
+<ns0:SimpleData name="Sys">1192</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cns">明德幹渠第19輪區主給1小給4</ns0:SimpleData>
+<ns0:SimpleData name="Sys_type">N</ns0:SimpleData>
+<ns0:SimpleData name="Sys_cls">小給</ns0:SimpleData>
+<ns0:SimpleData name="Uc">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_dir">1</ns0:SimpleData>
+<ns0:SimpleData name="Ymd">2011/07/04</ns0:SimpleData>
+<ns0:SimpleData name="Sys_kind">1</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_1E">0</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_2E">444.41</ns0:SimpleData>
+<ns0:SimpleData name="Sys_atb_3E">0</ns0:SimpleData>
+<ns0:SimpleData name="1_IR" />
+<ns0:SimpleData name="2_DA" />
+<ns0:SimpleData name="3_DB" />
+<ns0:SimpleData name="Attri_" />
+<ns0:SimpleData name="Width">0</ns0:SimpleData>
+<ns0:SimpleData name="欄位0616" />
+<ns0:SimpleData name="備註" />
+<ns0:SimpleData name="start_X">230236.38</ns0:SimpleData>
+<ns0:SimpleData name="start_Y">2727761.07</ns0:SimpleData>
+<ns0:SimpleData name="end_x">230467.18</ns0:SimpleData>
+<ns0:SimpleData name="end_y">2728135.74</ns0:SimpleData>
+</ns0:SchemaData>
+</ns0:ExtendedData>
+<ns0:styleUrl>#SGLineStyle_1</ns0:styleUrl>
+<ns0:LineString>
+<ns0:coordinates>
+120.8047436259637,24.6566378719712,0 120.8050743772142,24.6571223477564,0 120.8052231098275,24.6572348900065,0 120.8053094178771,24.6573082558057,0 120.8058298232858,24.6580900217506,0 120.8062383543014,24.6587001367102,0 120.8066743964146,24.6593488071311,0 120.8066684788278,24.6595050322819,0 120.8070186104939,24.6600235309184,0 
+</ns0:coordinates>
+</ns0:LineString>
+</ns0:Placemark>
+</Document></ns0:kml>
