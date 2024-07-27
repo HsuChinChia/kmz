@@ -7151,7 +7151,7 @@
 </coordinates>
 </LineString>
 </Placemark>
-<Placemark>
+<!-- <Placemark>
 <name>明德幹渠特1輪區主給1小給1</name>
 <ExtendedData>
 <SchemaData schemaUrl="#Canal">
@@ -7198,7 +7198,7 @@
 120.8834174737940,24.5853348894769,0 120.8834777111514,24.5853646103806,0 
 </coordinates>
 </LineString>
-</Placemark>
+</Placemark> -->
 <Placemark>
 <name>明德幹渠特1輪區小排1</name>
 <ExtendedData>
