@@ -17714,7 +17714,7 @@
 </coordinates>
 </LineString>
 </Placemark>
-<Placemark>
+<!-- <Placemark>
 <name>大埔支線第24輪區小給1</name>
 <Point><coordinates>120.903486702024,24.714253180457,0</coordinates></Point>
 </Placemark>
@@ -20727,6 +20727,6 @@
 <Placemark>
 <name>玉泉圳小給6之6</name>
 <Point><coordinates>120.820156356183,24.526724250427,0</coordinates></Point>
-</Placemark>
+</Placemark> -->
 
 </Document></kml>
