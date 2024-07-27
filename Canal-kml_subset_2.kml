@@ -7344,26 +7344,6 @@
 </LineString>
 </Placemark>
 <Placemark>
-  <name>明德幹渠第1輪區主給1</name>
-  <Style>
-    <IconStyle>
-      <scale>0</scale>
-    </IconStyle>
-    <LabelStyle>
-      <color>ff0000ff</color>
-      <scale>1.2</scale>
-    </LabelStyle>
-    <BalloonStyle>
-      <text><![CDATA[]]></text>
-    </BalloonStyle>
-  </Style>
-  <LineString>
-    <coordinates>
-      120.8625728746498,24.5826925074939,0 120.8625721503938,24.5826875445667,0 120.8625655919448,24.5826425712033,0 120.8626019411001,24.5826227733588,0 120.8625870852291,24.5825664882825,0 120.8626747508884,24.5825461070141,0 120.8628239602172,24.5825206641957,0 120.8628110417312,24.5823961732144,0 120.8626748940553,24.5824148057168,0 120.8625312830068,24.5824368423912,0 120.8624604119569,24.5824470092049,0 120.8621769274278,24.5824842650191,0 
-    </coordinates>
-  </LineString>
-</Placemark>
-<!-- <Placemark>
 <name>明德幹渠第1輪區主給1</name>
 <ExtendedData>
 <SchemaData schemaUrl="#Canal">
@@ -7411,7 +7391,7 @@
 </coordinates>
 </LineString>
 </Placemark>
-<Placemark> -->
+<Placemark>
 <name>明德幹渠第1輪區主給2</name>
 <ExtendedData>
 <SchemaData schemaUrl="#Canal">
