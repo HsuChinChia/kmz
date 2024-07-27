@@ -4452,26 +4452,9 @@
 <Point><coordinates>120.811956421980,24.491476417317,0</coordinates></Point>
 </Placemark>
 <Placemark>
-    <name>明德幹渠</name>
-    <Style>
-        <IconStyle>
-            <Icon>
-                <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-            </Icon>
-            <color>00ffffff</color>
-        </IconStyle>
-        <LabelStyle>
-            <scale>1.5</scale>
-        </LabelStyle>
-    </Style>
-    <Point>
-        <coordinates>120.838671569934,24.607178677315,0</coordinates>
-    </Point>
-</Placemark>
-<!-- <Placemark>
 <name>明德幹渠</name>
 <Point><coordinates>120.838671569934,24.607178677315,0</coordinates></Point>
-</Placemark> -->
+</Placemark>
 <Placemark>
 <name>流水潭圳</name>
 <Point><coordinates>120.900515711371,24.676105660470,0</coordinates></Point>
