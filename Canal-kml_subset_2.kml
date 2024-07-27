@@ -7104,6 +7104,32 @@
 </LineString>
 </Placemark>
 <Placemark>
+  <name>明德幹渠特1輪區主給1</name>
+  <Style>
+    <LineStyle>
+      <color>ff0000ff</color>
+      <width>3</width>
+    </LineStyle>
+    <LabelStyle>
+      <color>ff0000ff</color>
+      <scale>1.2</scale>
+    </LabelStyle>
+    <BalloonStyle>
+      <text><![CDATA[]]></text>
+    </BalloonStyle>
+  </Style>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Canal">
+      <!-- 保留原有的 SimpleData 標籤內容 -->
+    </SchemaData>
+  </ExtendedData>
+  <LineString>
+    <coordinates>
+      120.8837702118255,24.5852119559536,0 120.8837513580941,24.5852102168877,0 120.8836519109881,24.5852010444094,0 120.8830672950047,24.5855348115285,0
+    </coordinates>
+  </LineString>
+</Placemark>
+<!-- <Placemark>
 <name>明德幹渠特1輪區主給1</name>
 <ExtendedData>
 <SchemaData schemaUrl="#Canal">
@@ -7150,7 +7176,7 @@
 120.8837702118255,24.5852119559536,0 120.8837513580941,24.5852102168877,0 120.8836519109881,24.5852010444094,0 120.8830672950047,24.5855348115285,0 
 </coordinates>
 </LineString>
-</Placemark>
+</Placemark> -->
 <Placemark>
 <name>明德幹渠特1輪區主給1小給1</name>
 <ExtendedData>
