@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Name_52_________3____________2.schema">
+      <SimpleField name="folders" type="string"/>
+      <SimpleField name="altitude" type="string"/>
+      <SimpleField name="alt_mode" type="string"/>
+      <SimpleField name="time_begin" type="string"/>
+      <SimpleField name="time_end" type="string"/>
+      <SimpleField name="time_when" type="string"/>
+    </Schema>
+    <Document id="Name_52_________3____________2">
+      <name>Name_52甲圳第3支線小給2</name>
+      <Placemark id="Name_52_________3____________2.1">
+        <name>52???`??3???u?p??2</name>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>06</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2625</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Ia</td>
+
+<td>06</td>
+
+</tr>
+
+<tr>
+
+<td>Ia_cns</td>
+
+<td>?]??</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Mng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Mng_cns</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Stn</td>
+
+<td>11</td>
+
+</tr>
+
+<tr>
+
+<td>Stn_cns</td>
+
+<td>?]????</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Grp</td>
+
+<td>01</td>
+
+</tr>
+
+<tr>
+
+<td>Grp_cns</td>
+
+<td>?????p??</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Rot</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Rot_cns</td>
+
+<td>?D????</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Length</td>
+
+<td>406.93</td>
+
+</tr>
+
+<tr>
+
+<td>Ex_sys</td>
+
+<td>306033001001001001078</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Sys</td>
+
+<td>2890</td>
+
+</tr>
+
+<tr>
+
+<td>Sys_cns</td>
+
+<td>52???`??3???u?p??2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Sys_type</td>
+
+<td>N</td>
+
+</tr>
+
+<tr>
+
+<td>Sys_cls</td>
+
+<td>?p??</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Uc</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Sys_atb</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Sys_dir</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Ymd</td>
+
+<td>100/6/19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Sys_kind</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Sys_atb_1E</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Sys_atb_2E</td>
+
+<td>406.93</td>
+
+</tr>
+
+<tr>
+
+<td>Sys_atb_3E</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>1_IR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>2_DA</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>3_DB</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Attri_</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Width</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>????0616</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>????</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>start_X</td>
+
+<td>232887.52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>start_Y</td>
+
+<td>2719538.11</td>
+
+</tr>
+
+<tr>
+
+<td>end_x</td>
+
+<td>232802.14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>end_y</td>
+
+<td>2719866.31</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Name_52_________3____________2.schema">
+            <SimpleData name="folders">Canal</SimpleData>
+            <SimpleData name="alt_mode">clampToGround</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <extrude>0</extrude>
+          <coordinates>
+            120.830188505945,24.5853883683748,0
+            120.829957772583,24.5850895851394,0
+            120.82988034494,24.5848901215742,0
+            120.82987548176,24.5848727788692,0
+            120.830000382874,24.5848970287601,0
+            120.830105647904,24.584323940587,0
+            120.830183886621,24.5839219349439,0
+            120.830242479925,24.5835931383641,0
+            120.830323132465,24.5831518561766,0
+            120.830387324272,24.5827777364198,0
+            120.830836957245,24.582783298255,0
+            120.830908754501,24.5826875736421,0
+            120.831014355806,24.5824664634129,0
+            120.83103550332,24.5824260342315,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
